@@ -1,0 +1,33 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.idb
+*.lastbuildstate
+obj/
+Debug/
+Release/
+x64/
+
+# Visual Studio
+.vs/
+ipch/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+
+# Runtime-generated settings
+*.ini
+
+# Windows / editor clutter
+Thumbs.db
+desktop.ini
+*.log
+*.bak
+*.tmp
